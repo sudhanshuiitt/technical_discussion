@@ -10,4 +10,4 @@ This is a demon repo for sharing ideas around communication.
 
 ### Gist
 
-This is a good example of [my code](https://gist.github.com/sudhanshuiitt/9061a688f6bf45d3f696522a7c9c76a9)
+This is a good example of [my code](https://gist.github.com/sudhanshuiitt/9061a688f6bf45d3f696522a7c9c76a9).
